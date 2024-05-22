@@ -121,9 +121,6 @@ class DiscordMessenger:
         self.message_sender.send_message_and_block_user()
 
 
-prefix = f"{Fore.WHITE}[{Fore.RED}+{Fore.WHITE}]{Fore.RESET}"
-
-
 if __name__ == '__main__':
     token = ""
     channel_id = ""
