@@ -26,6 +26,7 @@ To run the Discord DM Blocker, you will need the following:
 
 - Python 3.x
 - Requests library
+- Colorama library
 
 ### Installation
 
